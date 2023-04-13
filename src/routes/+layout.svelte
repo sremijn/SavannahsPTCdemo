@@ -5,10 +5,10 @@
 </div>
 <style> 
 .background{
-    padding: 16px;
+    padding: 110px;
     position: absolute; 
     inset: 0; 
-    background-color:rgb(22, 154, 110); 
+    background-color:rgb(133, 210, 184); 
 }
 .layout{
     width: 100%; 

@@ -15,9 +15,9 @@ text-decoration: underline;
    }
    
  .correct  {
-   color:green; 
+   color:rgb(7, 94, 7); 
  }
    .incorrect {
-      color: red; 
+      color: rgb(217, 39, 39); 
    }
 </style>
