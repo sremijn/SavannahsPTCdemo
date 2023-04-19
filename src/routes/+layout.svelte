@@ -1,5 +1,6 @@
 <script>
 	import Score from '../components/score.svelte';
+	import Clock from '../components/clock.svelte';
 </script>
 
 <div class="background">
@@ -37,5 +38,8 @@
         display: flex;
         justify-content: space-between;
     }
-    
+    .content {
+		width: 100%;
+		max-width: 1024px;
+	}
 </style>

@@ -19,4 +19,3 @@ Terms
 Privacy
 Security
 Status
-s

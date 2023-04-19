@@ -8,10 +8,10 @@
 <p class="incorrect">That answer wasn't quite right...</p>
 {/if}
 
-<style>
+   <style>
    .correct, .incorrect{
-font-weight:bold; 
-text-decoration: underline;
+   font-weight:bold; 
+   text-decoration: underline;	
    }
    
  .correct  {
